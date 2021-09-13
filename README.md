@@ -1,4 +1,4 @@
-### Hi there 👩🏼‍💻
+### Welcome! 👩🏼‍💻
 <!--
 **ciara-picou/ciara-picou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
